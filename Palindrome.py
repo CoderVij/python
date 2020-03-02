@@ -1,4 +1,4 @@
-#Vijesh.V
+#Vijesh.V @freakoutgames
 #checking if a given string is palindrome
 #a string or number is palindrome that reads the same forward and backward
 
