@@ -1,4 +1,4 @@
-#Vijesh.V 
+#Vijesh.V @freakoutgames
 #program for finding out if a number is prime number or not
 #prime number is a number divisible by 1 or by itself
 
