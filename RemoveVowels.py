@@ -9,7 +9,6 @@ def removeVowels(string):
         for j in range(0, length):
             if newstring[j] == i.upper() or newstring[j] == i.lower():
                 newstring[j]=""
-                length = len(newstring)
     string = ''.join(newstring)
     return string
 
