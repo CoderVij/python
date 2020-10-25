@@ -1,4 +1,6 @@
 # A single node of a singly linked list
+#LinkedList
+
 class Node:
   # constructor
   def __init__(self, data = None, next=None): 
